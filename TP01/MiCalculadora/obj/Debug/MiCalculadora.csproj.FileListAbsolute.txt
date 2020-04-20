@@ -1,0 +1,39 @@
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\TP01_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Nahuel\source\repos\TP01\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\MiCalculadora\obj\Debug\MiCalculadora.pdb

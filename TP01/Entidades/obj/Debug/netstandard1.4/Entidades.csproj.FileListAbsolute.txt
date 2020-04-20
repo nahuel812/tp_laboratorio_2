@@ -1,0 +1,23 @@
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\Nahuel\source\repos\TP01_Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\TP01\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\Nahuel\source\repos\TP01\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\Nahuel\source\repos\TP01\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\Nahuel\source\repos\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\Nahuel\source\repos\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\Nahuel\source\repos\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\Nahuel\Desktop\TPS LABO2\TP01\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
