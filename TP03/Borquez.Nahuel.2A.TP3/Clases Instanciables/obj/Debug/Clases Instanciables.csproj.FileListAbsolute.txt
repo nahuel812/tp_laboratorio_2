@@ -1,0 +1,13 @@
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

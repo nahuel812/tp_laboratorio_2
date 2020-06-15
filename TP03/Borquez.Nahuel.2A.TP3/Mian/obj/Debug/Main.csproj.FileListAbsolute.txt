@@ -1,0 +1,16 @@
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Mian.exe.config
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Mian.exe
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Mian.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Clases Abstractas.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Clases Instanciables.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Excepciones.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Archivos.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Clases Abstractas.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Clases Instanciables.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Excepciones.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\bin\Debug\Archivos.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\obj\Debug\Mian.exe
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Mian\obj\Debug\Mian.pdb

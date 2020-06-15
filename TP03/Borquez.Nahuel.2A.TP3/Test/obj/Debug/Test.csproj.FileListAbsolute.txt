@@ -1,0 +1,25 @@
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Test.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Test.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Archivos.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Clases Abstractas.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Excepciones.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Archivos.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Clases Abstractas.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Excepciones.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\obj\Debug\Test.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP3\Test\obj\Debug\Test.pdb
