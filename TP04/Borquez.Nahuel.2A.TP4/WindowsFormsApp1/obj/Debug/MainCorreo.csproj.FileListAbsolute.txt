@@ -1,0 +1,14 @@
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\bin\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\bin\Debug\Entidades.dll.config
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPpal.resources
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nahuel\source\repos\Borquez.Nahuel.2A.TP4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
